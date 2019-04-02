@@ -1,5 +1,5 @@
 FROM selenium/node-base:3.141.59-iron
-LABEL authors=ITCInfotech-PES-Team
+LABEL authors=ITCInfotech-ZICOS-Team
 
 ARG MAVEN_VERSION=3.5.3
 ARG GRADLE_VERSION=5.2.1
